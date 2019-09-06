@@ -1,0 +1,8 @@
+{
+  "task": "typeahead-backend",
+  "template": "default",
+  "configSource": "env",
+  "stack": {
+    "type": "docker"
+  }
+}
